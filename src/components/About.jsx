@@ -28,7 +28,7 @@ const About = () => {
         <h2 className={styles.sectionHeadText}>Overview</h2>
       </motion.div>
       <motion.p variants={fadeIn("", "", 0.1, 1)} className={'mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'}>
-        I'm a skilled software developer with experience in TypeScript/JavaScript, Java/Kotlin, and GoLang, and expertise in libraries like React, Node.js, and Spring/Spring Boot.
+        I'm a skilled software developer with experience in TypeScript/JavaScript, Java/Kotlin, and GoLang, along with expertise in libraries like React, Node.js, and Spring/Spring Boot.
         I'm a quick learner and collaborate closely in a team environment to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's connect and talk tech!
       </motion.p>
       <div className={'mt-20 flex flex-wrap gap-10'}>
