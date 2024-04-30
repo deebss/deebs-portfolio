@@ -247,7 +247,7 @@ const projects = [
             },
         ],
         image: portfolio,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/deebss/deebs-portfolio",
     },
     {
         name: "Workout Buddy",
